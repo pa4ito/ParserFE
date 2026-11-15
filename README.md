@@ -97,7 +97,7 @@ samples/            synthetic test messages (.txt and .bin)
 tools/              sample generator
 ```
 
-## Changes in v3
+## Changes
 
 - Removed all embedded message samples; added synthetic samples and a generator
 - Hex input now ignores any whitespace, including line breaks
